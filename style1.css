@@ -1,0 +1,31 @@
+.align-center {
+    text-align: center;
+    background-color:#C0C0C0;
+   }
+   h2, a {
+    color: #808000;
+}
+.size-18 {
+    font-size: 18px;
+  
+    align-content: center;
+}
+
+style {
+    width: 100px;
+}
+
+#test {
+     background-color: #BE9381;
+     color: black;
+     padding: 15px;
+     margin: 15px;
+     border: 5px solid #242322;
+     font-size: 30px; 
+}
+
+.style {
+    font-size: 20px;
+    border-style: solid;
+
+}
